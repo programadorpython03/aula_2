@@ -1,4 +1,4 @@
-# palavra chave da segunda aula: automação
+# palavra chave da segunda aula: Domine Python e Destaque-sem em Qualqer Área
 
 import pandas as pd
 import pyautogui
